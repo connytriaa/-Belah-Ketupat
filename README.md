@@ -1,1 +1,1 @@
-# -Belah-Ketupat
+# Faktorial
